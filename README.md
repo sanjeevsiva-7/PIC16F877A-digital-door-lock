@@ -139,8 +139,9 @@ The firmware is written in Embedded C using MPLAB X IDE and the XC8 compiler. Th
 
 ## Author
 
-Sanjeev Siva
+Sanjeev Siva C S
+
 B.Tech Electronics and Communication Engineering (ECE)
 
-Embedded Systems | Firmware Development | Microcontrollers
+
 
