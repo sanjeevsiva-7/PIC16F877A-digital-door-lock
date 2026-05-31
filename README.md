@@ -1,4 +1,4 @@
-# PIC16F877A-digital-door-lock
+
 # PIC16F877A Digital Security Lock System
 
 ## Overview
